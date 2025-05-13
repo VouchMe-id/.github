@@ -1,6 +1,6 @@
 # VouchMe.id
 
-![VouchMe.id Logo](https://storage.googleapis.com/vouchme-assets/logo.png)
+![VouchMe.id Logo](https://www.vouchme.id/v3.webp)
 
 ## Humans, verified by Humans
 
