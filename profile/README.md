@@ -1,6 +1,6 @@
 # VouchMe.id
 
-![VouchMe.id Logo](https://www.vouchme.id/people_vouch_3.wepb)
+![VouchMe.id Logo](https://www.vouchme.id/people_vouch_3.webp)
 
 ## Humans, verified by Humans
 
